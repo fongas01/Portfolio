@@ -82,16 +82,16 @@ a {
 /* imagem RREDONDADA */
 
 .container1 .principal img {
-    display: flex;
+    top: 800px;
+    left: 593px;
     width: 383px;
-    height: 383px;
+    height: 384px;
     border: 1px solid #707070;
     opacity: 1;
     border-radius: 50%;
 }
 
 .container1 img {
-    display: flex;
     width: 40px;
     height: 41px;
     border: 1px solid #707070;
@@ -170,6 +170,10 @@ article p {
     opacity: 1;
 }
 
+.logoMedia .SLogo {
+    border-radius: 50%;
+}
+
 .logoMedia p {
     /*top: 545px;
     left: 731px;
@@ -181,3 +185,5 @@ article p {
     color: #707070;
     opacity: 1;
 }
+
+k
