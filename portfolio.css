@@ -82,16 +82,16 @@ a {
 /* imagem RREDONDADA */
 
 .container1 .principal img {
-    top: 1000px;
-    left: 593px;
-    width: 183px;
-    height: 184px;
+    display: flex;
+    width: 383px;
+    height: 383px;
     border: 1px solid #707070;
     opacity: 1;
-    border-radius: 80%;
+    border-radius: 50%;
 }
 
 .container1 img {
+    display: flex;
     width: 40px;
     height: 41px;
     border: 1px solid #707070;
